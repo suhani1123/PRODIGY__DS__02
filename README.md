@@ -4,11 +4,15 @@ Exploratory Data Analysis (EDA) on Titanic Dataset
 🚢 Titanic Survival Analysis
 
 📌 Project Overview : 
+
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset to identify key factors influencing passenger survival.
+
 The analysis focuses on understanding how demographic and socio-economic features impacted survival outcomes.
 
 🎯 Objective : 
+
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. 
+
 Explore the relationships between variables and identify patterns and trends in the data.
 
 📊 Key Visualizations : 
